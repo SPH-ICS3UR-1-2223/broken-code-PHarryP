@@ -54,7 +54,7 @@ public class FixMe {
 						// add the count to the output
 						output += currentCount + " " + currentChar + " ";
 					}
-
+				
 				}
 			}
 			// Print newline
